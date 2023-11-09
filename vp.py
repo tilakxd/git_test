@@ -1,1 +1,1 @@
-print("hello I am nigger")
+print("cool project Im working on")
